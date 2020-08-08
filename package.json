@@ -1,0 +1,22 @@
+{
+  "name": "gamerchicken",
+  "version": "1.0.0",
+  "description": "its me discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iamnihc/gamerchicken.git"
+  },
+  "author": "chinmney and friends",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnihc/gamerchicken/issues"
+  },
+  "homepage": "https://github.com/iamnihc/gamerchicken#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
